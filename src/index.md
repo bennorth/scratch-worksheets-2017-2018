@@ -88,3 +88,13 @@ Most students got through most of this.  Working with them individually, many ha
 At the end of the worksheet, the project should look like this:
 
 <p class="scratch-project"><a href="https://scratch.mit.edu/projects/199120437/"><img src="week-07/scratch-project.png"></a></p>
+
+
+<div style="clear:both"/>
+# Weeks 8 and 9
+
+<div class="thumbnail"><a href="week-08/Scratch-worksheets-2017-2018-week-08.pdf"><img src="week-08/worksheet.png"></a></div>
+
+The goal was that by this point the students would have enough skill to work on their own ideas.  We did provide a worksheet with a few nudges in case students drew a blank.
+
+The students were split about half and half between those who had ideas to extend our SpaceChem-style game, and those who had their own completely new ideas.  On the whole they worked well and were able to make progress on their chosen tasks, although some had ideas which were good and interesting but not practicable.  In week 9 our internet connection was dodgy which made it difficult to maintain focus.
