@@ -30,3 +30,15 @@ Some students got most of the way through this, although I think the material wa
 At the end of the worksheet, the project should look like this:
 
 <p class="scratch-project"><a href="https://scratch.mit.edu/projects/199126751/"><img src="week-02/scratch-project.png"></a></p>
+
+
+<div style="clear:both"/>
+# Week 3
+
+<div class="thumbnail"><a href="week-03/Scratch-worksheets-2017-2018-week-03.pdf"><img src="week-03/worksheet.png"></a></div>
+
+We next made instruction arrows which the player can drag on to the reactor.  There is some maths involved for snapping the dropped arrow to the centre of a cell, which I don't think everyone fully followed all details of, but most got the main points of the worksheet done.  A few of the students had good 'aha!' moments when they grasped the concept of defining and using a custom block.
+
+At the end of the worksheet, the project should look like this:
+
+<p class="scratch-project"><a href="https://scratch.mit.edu/projects/199131736/"><img src="week-03/scratch-project.png"></a></p>
