@@ -51,6 +51,6 @@ At the end of the worksheet, the project should look like this:
 
 Here we added the 'Waldo', the robot which follows the instructions.  Most students got Waldo successfully following arrows round the reactor.  There was quite a bit of material which hardly any student got to, but it's probably better to err on the side of having spare material, rather than running out.
 
-At the end of the worksheet, the project should look like this:
+At the end of the worksheet, the project should look like one of these (the second has the challenges from the worksheet done as well):
 
-<p class="scratch-project"><a href="https://scratch.mit.edu/projects/199105653/"><img src="week-04/scratch-project.png"></a></p>
+<p class="scratch-project"><a href="https://scratch.mit.edu/projects/199105653/"><img src="week-04/scratch-project.png"></a><span style="margin-left:2em;"/><a href="https://scratch.mit.edu/projects/199106901/"><img src="week-04/scratch-project-w-challenges.png"></a></p>
