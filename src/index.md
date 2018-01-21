@@ -42,3 +42,15 @@ We next made instruction arrows which the player can drag on to the reactor.  Th
 At the end of the worksheet, the project should look like this:
 
 <p class="scratch-project"><a href="https://scratch.mit.edu/projects/199131736/"><img src="week-03/scratch-project.png"></a></p>
+
+
+<div style="clear:both"/>
+# Week 4
+
+<div class="thumbnail"><a href="week-04/Scratch-worksheets-2017-2018-week-04.pdf"><img src="week-04/worksheet.png"></a></div>
+
+Here we added the 'Waldo', the robot which follows the instructions.  Most students got Waldo successfully following arrows round the reactor.  There was quite a bit of material which hardly any student got to, but it's probably better to err on the side of having spare material, rather than running out.
+
+At the end of the worksheet, the project should look like this:
+
+<p class="scratch-project"><a href="https://scratch.mit.edu/projects/199105653/"><img src="week-04/scratch-project.png"></a></p>
