@@ -14,3 +14,19 @@ We introduced everyone to the puzzle game [SpaceChem](http://www.zachtronics.com
 I was hoping the students would get a bit further, but most got the hang of what they were trying to do within SpaceChem, and we had a brief discussion at the end regarding connections to Scratch.
 
 <p class="scratch-project"><a href="http://www.zachtronics.com/spacechem/"><img src="week-01/spacechem.png"></a></p>
+
+
+<div style="clear:both"/>
+# Week 2
+
+<div class="thumbnail"><a href="week-02/Scratch-worksheets-2017-2018-week-02.pdf"><img src="week-02/worksheet.png"></a></div>
+
+(I tried to lead this class from the front, but this did not work very well at all.  I made the worksheet after the fact.)
+
+We started by making the reactor's grid of cells.
+
+Some students got most of the way through this, although I think the material was quite fast-moving for many of them.  This week therefore served as a bit of a calibration exercise as to how much we could expect to get done in a session.
+
+At the end of the worksheet, the project should look like this:
+
+<p class="scratch-project"><a href="https://scratch.mit.edu/projects/199126751/"><img src="week-02/scratch-project.png"></a></p>
