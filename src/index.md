@@ -74,3 +74,17 @@ At the end of the worksheet, the project should look like one of these (the seco
 # Week 6
 
 The previous two weeks both had more material than anybody got completely through, so we used Week 6 to let students catch up with work they hadn't had time to finish.  Most did make further progress, either on the main material or the challenges.
+
+
+<div style="clear:both"/>
+# Week 7
+
+<div class="thumbnail"><a href="week-07/Scratch-worksheets-2017-2018-week-07.pdf"><img src="week-07/worksheet.png"></a></div>
+
+This week we implemented an idea that a student had had in an early session: a game element which is only passable for a short time, before becoming impassable.
+
+Most students got through most of this.  Working with them individually, many had a good grasp of what they were doing.  Several had their own ideas about making the graphics more interesting than just a countdown; good to allow their own creativity here.
+
+At the end of the worksheet, the project should look like this:
+
+<p class="scratch-project"><a href="https://scratch.mit.edu/projects/199120437/"><img src="week-07/scratch-project.png"></a></p>
