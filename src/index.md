@@ -68,3 +68,9 @@ Again, nobody finished the material but most made good progress.
 At the end of the worksheet, the project should look like one of these (the second has most of the challenges from the worksheet done as well):
 
 <p class="scratch-project"><a href="https://scratch.mit.edu/projects/199107499/"><img src="week-05/scratch-project.png"></a><span style="margin-left:2em;"/><a href="https://scratch.mit.edu/projects/199116659/"><img src="week-05/scratch-project-w-challenges.png"></a></p>
+
+
+<div style="clear:both"/>
+# Week 6
+
+The previous two weeks both had more material than anybody got completely through, so we used Week 6 to let students catch up with work they hadn't had time to finish.  Most did make further progress, either on the main material or the challenges.
