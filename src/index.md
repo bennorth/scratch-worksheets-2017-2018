@@ -54,3 +54,17 @@ Here we added the 'Waldo', the robot which follows the instructions.  Most stude
 At the end of the worksheet, the project should look like one of these (the second has the challenges from the worksheet done as well):
 
 <p class="scratch-project"><a href="https://scratch.mit.edu/projects/199105653/"><img src="week-04/scratch-project.png"></a><span style="margin-left:2em;"/><a href="https://scratch.mit.edu/projects/199106901/"><img src="week-04/scratch-project-w-challenges.png"></a></p>
+
+
+<div style="clear:both"/>
+# Week 5
+
+<div class="thumbnail"><a href="week-05/Scratch-worksheets-2017-2018-week-05.pdf"><img src="week-05/worksheet.png"></a></div>
+
+Here we diverged from SpaceChem, in that aimed for a simplified version where Waldo has to collect atoms from the grid. So the next stage was to add atoms, have Waldo collect them, and declare victory if all atoms are collected.
+
+Again, nobody finished the material but most made good progress.
+
+At the end of the worksheet, the project should look like one of these (the second has most of the challenges from the worksheet done as well):
+
+<p class="scratch-project"><a href="https://scratch.mit.edu/projects/199107499/"><img src="week-05/scratch-project.png"></a><span style="margin-left:2em;"/><a href="https://scratch.mit.edu/projects/199116659/"><img src="week-05/scratch-project-w-challenges.png"></a></p>
