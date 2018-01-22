@@ -112,3 +112,15 @@ Some chose to continue working on their own previous ideas instead, but all made
 At the end of the worksheet, the project should look like this:
 
 <p class="scratch-project"><a href="https://scratch.mit.edu/projects/199120437/"><img src="week-10/scratch-project.png"></a></p>
+
+
+<div style="clear:both"/>
+# Week 11
+
+<div class="thumbnail"><a href="week-11/Scratch-worksheets-2017-2018-week-11.pdf"><img src="week-11/worksheet.png"></a></div>
+
+This was the last session before the Christmas break, so we made an animation of a penguin decorating a Christmas tree.  One student completely finished this, and several others got very close.
+
+At the end of the worksheet, the project should look like this:
+
+<p class="scratch-project"><a href="https://scratch.mit.edu/projects/199288325/"><img src="week-11/scratch-project.png"></a></p>
