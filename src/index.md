@@ -98,3 +98,17 @@ At the end of the worksheet, the project should look like this:
 The goal was that by this point the students would have enough skill to work on their own ideas.  We did provide a worksheet with a few nudges in case students drew a blank.
 
 The students were split about half and half between those who had ideas to extend our SpaceChem-style game, and those who had their own completely new ideas.  On the whole they worked well and were able to make progress on their chosen tasks, although some had ideas which were good and interesting but not practicable.  In week 9 our internet connection was dodgy which made it difficult to maintain focus.
+
+
+<div style="clear:both"/>
+# Week 10
+
+<div class="thumbnail"><a href="week-10/Scratch-worksheets-2017-2018-week-10.pdf"><img src="week-10/worksheet.png"></a></div>
+
+We decided that the SpaceChem idea had reached a natural stopping point, and so we had the students develop a game based on an idea one of them had had a previous week.
+
+Some chose to continue working on their own previous ideas instead, but all made progress.  Those who worked through the sheet did well although none completely finished.
+
+At the end of the worksheet, the project should look like this:
+
+<p class="scratch-project"><a href="https://scratch.mit.edu/projects/199120437/"><img src="week-10/scratch-project.png"></a></p>
