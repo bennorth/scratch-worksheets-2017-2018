@@ -2,7 +2,7 @@
 
 _[Ben North](http://www.redfrontdoor.org/blog/).  Copyright and licensing at end.  Source available at [GitHub](https://github.com/bennorth/scratch-worksheets-2017-2018/)._
 
-I was recently part of a group of volunteers who led a twelve-week after-school [Scratch](https://scratch.mit.edu) programming class for 10&ndash;12-year-olds.  Below are the worksheets I created for these classes, with some notes on how we got on with them.  I incorporated various pieces of feedback in making the versions below, but any errors are mine.
+I was recently part of a group of volunteers who led a twelve-week after-school [Scratch](https://scratch.mit.edu) programming class for 10&ndash;12-year-olds.  Below are the worksheets I created for these classes, with some notes on how we got on with them.  I incorporated various pieces of feedback in making the versions below, but any remaining errors are mine.
 
 Linked resources:
 
