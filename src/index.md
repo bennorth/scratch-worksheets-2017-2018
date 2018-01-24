@@ -144,5 +144,3 @@ At the end of the worksheet, the project should look like this:
 For convenience, here are all worksheets bundled into one zip-file:
 
 * [All worksheets](all-worksheets.zip)
-
-
