@@ -1,6 +1,6 @@
 % Scratch worksheets 2017/18
 
-_Copyright 2017, 2018 [Ben North](http://www.redfrontdoor.org/blog/).  Licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).  Source available at [GitHub](https://github.com/bennorth/scratch-worksheets-2017-2018/)._
+_[Ben North](http://www.redfrontdoor.org/blog/).  Copyright and licensing at end.  Source available at [GitHub](https://github.com/bennorth/scratch-worksheets-2017-2018/)._
 
 I was recently part of a group of volunteers who led a twelve-week after-school [Scratch](https://scratch.mit.edu) programming class for 10&ndash;12-year-olds.  Below are the worksheets I created for these classes, with some notes on how we got on with them.  I incorporated various pieces of feedback in making the versions below, but any errors are mine.
 
@@ -151,3 +151,12 @@ At the end of the worksheet, the project should look like this:
 For convenience, here are all worksheets bundled into one zip-file:
 
 * [All worksheets](all-worksheets.zip)
+
+
+# Copyright and licensing
+
+The main content of this page is copyright 2018 Ben North, and is hereby licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
+
+Some screenshots incorporate material copyright The Scratch Team, used under a [Creative Commons Attribution-ShareAlike 2.0 license](https://creativecommons.org/licenses/by-sa/2.0/).  Scratch is developed by the Lifelong Kindergarten Group at the MIT Media Lab. See [http://scratch.mit.edu](http://scratch.mit.edu).
+
+SpaceChem screenshot used as 'fair use'; [SpaceChem](http://www.zachtronics.com/spacechem/) is copyright Zachtronics 2011.  We are grateful to Zachtronics for the free-of-charge licences used in our after-school class.
