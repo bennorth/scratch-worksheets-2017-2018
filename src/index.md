@@ -124,3 +124,15 @@ This was the last session before the Christmas break, so we made an animation of
 At the end of the worksheet, the project should look like this:
 
 <p class="scratch-project"><a href="https://scratch.mit.edu/projects/199288325/"><img src="week-11/scratch-project.png"></a></p>
+
+
+<div style="clear:both"/>
+# Week 12
+
+<div class="thumbnail"><a href="week-12/Scratch-worksheets-2017-2018-week-12.pdf"><img src="week-12/worksheet.png"></a></div>
+
+For our final session, we introduced two new Scratch concepts: lists and the pen blocks.  With these, we made a project which let you record and play back some graffiti.  I think three students got all the way through it, and a couple more got most of the way.
+
+At the end of the worksheet, the project should look like this:
+
+<p class="scratch-project"><a href="https://scratch.mit.edu/projects/199863147/"><img src="week-12/scratch-project.png"></a></p>
