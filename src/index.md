@@ -136,3 +136,13 @@ For our final session, we introduced two new Scratch concepts: lists and the pen
 At the end of the worksheet, the project should look like this:
 
 <p class="scratch-project"><a href="https://scratch.mit.edu/projects/199863147/"><img src="week-12/scratch-project.png"></a></p>
+
+
+<div style="clear:both"/>
+# All worksheets
+
+For convenience, here are all worksheets bundled into one zip-file:
+
+* [All worksheets](all-worksheets.zip)
+
+
