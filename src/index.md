@@ -75,7 +75,7 @@ At the end of the worksheet, the project should look like one of these (the seco
 
 <div class="thumbnail"><a href="week-05/Scratch-worksheets-2017-2018-week-05.pdf"><img src="week-05/worksheet.png"></a></div>
 
-Here we diverged from SpaceChem, in that aimed for a simplified version where Waldo has to collect atoms from the grid. So the next stage was to add atoms, have Waldo collect them, and declare victory if all atoms are collected.
+Here we diverged from SpaceChem, in that we started work towards a simplified version where Waldo has to collect atoms from the grid. So the next stage was to add atoms, have Waldo collect them, and declare victory if all atoms are collected.
 
 Again, nobody finished the material but most made good progress.
 
